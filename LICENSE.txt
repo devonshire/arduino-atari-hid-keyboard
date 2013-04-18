@@ -1,0 +1,10 @@
+Interface Atari ST Keyboard to USB HID Keyboard
+===============================================
+
+Some original code provided by user 'joska' of 
+http://www.atari-forum.com - license unknown
+
+My changes and additions are licensed public domain
+
+Copyright Kevin Peat 2013
+kevin 'at' kevinpeat.com
