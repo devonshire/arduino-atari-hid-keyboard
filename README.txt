@@ -26,5 +26,10 @@ Atari 8-pin Keyboard Connector     Arduino
 7 Reset                            4 (can be changed in code)
 8 Not used
 
+
+See http://www.kevinpeat.com/atari_pi_reworked.html for my hybrid Atari
+ST Raspberry Pi project.
+
+
 Copyright Kevin Peat 2017
 kevin 'at' kevinpeat.com
