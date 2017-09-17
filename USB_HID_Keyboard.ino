@@ -1,3 +1,4 @@
+#include <Keyboard.h>
 /* 
 * -------------------------------------------------------------------------
 * Interface Atari ST Keyboard to USB HID Keyboard
@@ -5,7 +6,7 @@
 * Initial idea and some original code provided by user 'joska' of 
 * http://www.atari-forum.com - license unknown
 * -------------------------------------------------------------------------
-* Copyright Kevin Peat 2013
+* Copyright Kevin Peat 2017
 * kevin@kevinpeat.com
 * My changes and additions are licensed public domain
 * -------------------------------------------------------------------------
